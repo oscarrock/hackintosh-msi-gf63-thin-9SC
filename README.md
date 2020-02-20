@@ -1,4 +1,4 @@
-IMPORTANT NOTE: Some of you have send me emails but i have this project is on standby due to lack of time. If you are interested to work on this setup i encorage you to install hackintosh (vainilla setup or niresh mojave) and if you have any results i will love to hear about it, please post questios or anything in issues section. Do not pm me. Thanks.
+IMPORTANT NOTE: Some of you have send me meesages but i have this project is on standby due to lack of time. If you are interested to work on this setup i encorage you to install hackintosh (vainilla setup or niresh mojave) and if you have any results i will love to hear about it, please post questios or anything in issues section. Thanks.
              
 # hackintosh-msi-gf63-thin-9SC
 Setup of hackintosh laptop on this MSI laptop - Intel Core i7 9th Gen
