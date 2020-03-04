@@ -25,6 +25,7 @@ NOT WORKING
 - Battery drains fast! (VERY IMPORTANT TO FIX!)
 - Fan control ( Heat from the cores!)
 - HDMI
+- Touchpad (Touchpad is working but it has no scrolling with two fingers.)
 
 I´ll make an step by step for myself and anyone interested in this.
 
@@ -56,15 +57,16 @@ coffee lake does not need it.
 Pending.
 Upload benchmark tests
 
-Now i use 2 config.plist for clover just FYI.
-config.working.plist > the one that always works for me.
-config.plist > the one i change constantly to fix battery and other stuff.
-
 - Attached
 Screenshots
 
 Recommended apps.
 - Intel power gagdget
 - Hackintool
+
+FYI use 2 config.plist for clover.<br>
+- config.working.plist: the one that always works for me.<br>
+- config.plist: the one i change constantly to fix battery and other stuff.
+
 
 Special thanks to: @jbwharris, @cm0270 and all the people interested in making this setup.
