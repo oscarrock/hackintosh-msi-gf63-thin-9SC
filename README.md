@@ -41,11 +41,13 @@ I´ll make an step by step for myself and anyone interested in this.
 6. Install Catalalina.
 
 7. Postintall setup: https://www.tonymacx86.com/threads/guide-native-power-management-for-laptops.175801/
+<pre>
 sudo pmset -a hibernatemode 0
 sudo rm /var/vm/sleepimage
 sudo mkdir /var/vm/sleepimage
 sudo pmset -a standby 0
 sudo pmset -a autopoweroff 0
+</pre>
 
 I am at this point: XCPM only (not so experimental anymore,... it is proven to work)
 i tryed with plugin type and got frezes also tryed ssdtPRGen but post says
