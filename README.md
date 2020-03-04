@@ -68,5 +68,8 @@ FYI use 2 config.plist for clover.<br>
 - config.working.plist: the one that always works for me.<br>
 - config.plist: the one i change constantly to fix battery and other stuff.
 
+Useful links: 
+https://fewtarius.gitbook.io/laptopguide/
+https://hackintosh.gitbook.io/-r-hackintosh-vanilla-desktop-guide/
 
 Special thanks to: @jbwharris, @cm0270 and all the people interested in making this setup.
