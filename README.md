@@ -23,6 +23,7 @@ WORKING
 NOT WORKING
 - Battery (Seems to work ok. but i have not tested fully)
 - HDMI
+- Touchpad (Touchpad is working but it has no scrolling with two fingers.)
 
 I´ll make an step by step for myself and anyone interested in this.
 
@@ -39,6 +40,25 @@ I´ll make an step by step for myself and anyone interested in this.
 
 6. Install Catalalina.
 
+<<<<<<< HEAD
+=======
+7. Postintall setup: https://www.tonymacx86.com/threads/guide-native-power-management-for-laptops.175801/
+<pre>
+sudo pmset -a hibernatemode 0
+sudo rm /var/vm/sleepimage
+sudo mkdir /var/vm/sleepimage
+sudo pmset -a standby 0
+sudo pmset -a autopoweroff 0
+</pre>
+
+I am at this point: XCPM only (not so experimental anymore,... it is proven to work)
+i tryed with plugin type and got frezes also tryed ssdtPRGen but post says
+coffee lake does not need it.
+
+Pending.
+Upload benchmark tests
+
+>>>>>>> 5cbaf25d24f3b539f17847685d005f7ce09a5e96
 - Attached
 Screenshots
 
@@ -46,5 +66,17 @@ Recommended apps.
 - Intel power gagdget
 - Hackintool
 
+<<<<<<< HEAD
 Special thanks to: tonymacx86 forums.
 @jbwharris, @cm0270 and all the people interested in making this setup
+=======
+FYI use 2 config.plist for clover.<br>
+- config.working.plist: the one that always works for me.<br>
+- config.plist: the one i change constantly to fix battery and other stuff.
+
+Useful links: 
+https://fewtarius.gitbook.io/laptopguide/
+https://hackintosh.gitbook.io/-r-hackintosh-vanilla-desktop-guide/
+
+Special thanks to: @jbwharris, @cm0270 and all the people interested in making this setup.
+>>>>>>> 5cbaf25d24f3b539f17847685d005f7ce09a5e96
