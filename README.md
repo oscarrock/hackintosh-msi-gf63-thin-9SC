@@ -19,11 +19,17 @@ WORKING
 - Battery indicator, and charging.
 - Camera
 - Temperature seems right no heat.
+- Kingston SSD (Working fine)
 
 NOT WORKING
 - Battery (Seems to work ok. but i have not tested fully)
 - HDMI
 - Touchpad (Touchpad is working but it has no scrolling with two fingers.)
+- SAMSUNG MZVLB512HAJQ - DOES NOT WORK WITH MAC
+  found a posible workaround here:
+  https://www.tonymacx86.com/threads/guide-hackrnvmefamily-co-existence-with-ionvmefamily-using-class-code-spoof.210316/
+  https://www.tonymacx86.com/threads/mojave-install-panic-on-dell-xps-9570-with-samsung-mzvlb512hajq-pm981.268172/
+  https://www.tonymacx86.com/threads/how-to-fix-pm981-in-10-13-3-17d47.245063/
 
 I´ll make an step by step for myself and anyone interested in this.
 
@@ -47,5 +53,7 @@ Recommended apps.
 - Intel power gagdget
 - Hackintool
 
-Special thanks to: tonymacx86 forums.
-@jbwharris, @cm0270 and all the people interested in making this setup
+https://www.tonymacx86.com/threads/guide-hackrnvmefamily-co-existence-with-ionvmefamily-using-class-code-spoof.210316/
+
+Special thanks to: tonymacx86. RehabMan.
+Also @jbwharris, @cm0270 and all the people interested in making this setup

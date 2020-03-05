@@ -221,7 +221,7 @@
 		<key>Secure</key>
 		<false/>
 		<key>Timeout</key>
-		<integer>0</integer>
+		<integer>10</integer>
 	</dict>
 	<key>Devices</key>
 	<dict>
