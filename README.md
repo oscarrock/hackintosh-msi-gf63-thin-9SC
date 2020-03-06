@@ -23,7 +23,7 @@ WORKING
 - Temperature seems right no heat.
 - Kingston SSD (Working fine)
 - Battery works fine
-- Touchpad (im using ApplePS2SmartTouchPad.kext post installation, make sure you remove all Voodoo kexts.)
+- Touchpad
 
 NOT WORKING
 - HDMI
@@ -35,18 +35,16 @@ NOT WORKING
 
 I´ll put few notes, for myself or anyone interested in this.
 
-1. FORMAT USB (Disk-Utility osx) 16GB OR GREATHER.
+- FORMAT USB (Disk-Utility osx) 16GB OR GREATHER.
    Format FAT32 - GUID PARTITION MAP.
 
-2. COPY INSTALLER TO USB(TERMINAL)
+- COPY INSTALLER TO USB(TERMINAL)
    sudo /Applications/Install\ macOS\ Catalina.app/Contents/Resources/createinstallmedia --volume /Volumes/USBINSTALLER/
    The Installer was downloaded from Mac App Store.
 
-3. Download Clover_v2.5k_r5104.pkg
+- Install clover in EFI of usb.
 
-4. Install clover in EFI of usb.
-
-6. Install Catalalina.
+- Install Catalalina.
 
 - Attached
 Screenshots
