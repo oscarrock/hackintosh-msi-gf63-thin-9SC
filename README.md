@@ -1,6 +1,8 @@
 # hackintosh-msi-gf63-thin-9SC
 Setup of hackintosh laptop on this MSI laptop - Intel Core i7 9th Gen
 
+#WARNING: I AM NOT AN EXPERT IN HACKINTOSH, NOR CLOVER I JUST GOT LUCK AND FOUND AN EFI WORKING FOR MY MODEL, WITH FEW CUSTOMISATIONS.
+
 <h5>Vainilla Catalina on Msi gf63 i7 9750H. Intel UHD 630 </h5>
 
 Hey, just to let you know i got fresh Vainilla Catalina instaled on my lap.
@@ -20,18 +22,18 @@ WORKING
 - Camera
 - Temperature seems right no heat.
 - Kingston SSD (Working fine)
+- Battery works fine
+- Touchpad (im using ApplePS2SmartTouchPad.kext post installation, make sure you remove all Voodoo kexts.)
 
 NOT WORKING
-- Battery (Seems to work ok. but i have not tested fully)
 - HDMI
-- Touchpad (Touchpad is working but it has no scrolling with two fingers.)
 - SAMSUNG MZVLB512HAJQ - DOES NOT WORK WITH MAC
   found a posible workaround here:
   https://www.tonymacx86.com/threads/guide-hackrnvmefamily-co-existence-with-ionvmefamily-using-class-code-spoof.210316/
   https://www.tonymacx86.com/threads/mojave-install-panic-on-dell-xps-9570-with-samsung-mzvlb512hajq-pm981.268172/
   https://www.tonymacx86.com/threads/how-to-fix-pm981-in-10-13-3-17d47.245063/
 
-I´ll make an step by step for myself and anyone interested in this.
+I´ll put few notes, for myself or anyone interested in this.
 
 1. FORMAT USB (Disk-Utility osx) 16GB OR GREATHER.
    Format FAT32 - GUID PARTITION MAP.
