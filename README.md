@@ -23,10 +23,12 @@ WORKING
 - Temperature seems right no heat.
 - Kingston SSD (Working fine)
 - Battery works fine
-- Touchpad
+- Touchpad (Sometimes is working synaptics, sometimes not. VooodoI2C)
+- Brightness
 
 NOT WORKING
 - HDMI
+- RANDOM CRASHES (I couldnt find the crash source yet)
 - SAMSUNG MZVLB512HAJQ - DOES NOT WORK WITH MAC
   found a posible workaround here:
   https://www.tonymacx86.com/threads/guide-hackrnvmefamily-co-existence-with-ionvmefamily-using-class-code-spoof.210316/
